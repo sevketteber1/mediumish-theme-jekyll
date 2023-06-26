@@ -13,7 +13,7 @@ jQuery(document).ready(function($){
               'height'                : '290',
               'background-size'       : 'cover',
               'background-repeat'     : 'no-repeat',
-              'background-position'   : '50% 20%',
+              'background-position'   : '50% 30%',
               'background-image'      : s
           });
           t.hide();
